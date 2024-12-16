@@ -2,7 +2,7 @@
 #### Video Demo:  https://youtu.be/jgyhaKveKww
 #### Description:
 
-The program imitates the well known tabletop game of the same name in which players are given a prompt and a position in ranking, having to give an answer to the prompt creating a ranked list from best to worts answer. Players then have to guess which answer is at which position of the list.
+The program imitates the well known tabletop game of the same name in which players are given a prompt and a position in ranking, having to give an answer to the prompt creating a ranked list from best to worst answer. Players then have to guess which answer is at which position of the list.
 
 ### project.py
 
